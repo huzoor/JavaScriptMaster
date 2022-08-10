@@ -1,0 +1,40 @@
+HTML = Hyeper Text Markup Lang
+
+
+URL = Uniform Resource Locator
+
+http://www.facebook.com
+https://www.facebook.com/feeds?id=1&name=abc&gender=m
+
+host: facebook.com
+uri :  facebook.com/feeds
+params: id [1], name [abc], gender [m]
+
+
+PROTOCOLS :
+===========
+HTTP - Hyper Text Transefer Protocol
+FTP  - File Transefer Protocol
+SMTP - Simple Mail Transefer Protocol
+UDP  - Unified Data Protocol
+..
+..
+..
+
+
+
+API Methods: 
+===========
+GET
+POST
+PUT
+OPTIONS
+PATCH
+DELETE
+
+
+
+
+
+
+
